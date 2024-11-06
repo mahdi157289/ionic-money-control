@@ -1,0 +1,7 @@
+{
+  "name": "Money control",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
